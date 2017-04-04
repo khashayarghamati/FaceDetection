@@ -1,4 +1,4 @@
-from faceRecognotion import FaceRecognition
+from faceRecognition import FaceRecognition
 
 
 if __name__ == '__main__':
